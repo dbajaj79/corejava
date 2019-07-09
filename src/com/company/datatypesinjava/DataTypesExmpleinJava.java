@@ -37,6 +37,16 @@ package com.company.datatypesinjava;
 
 public class DataTypesExmpleinJava {
 
+    static  int valuInt;
+    static  short valueshort;
+    static  byte valuebype;
+    static  long valuelong;
+    static  float valuefloat;
+    static  double valuedouble;
+    static  char valuechar;
+    static  boolean booleanvalue;
+
+
     public static void main(String[] args) {
         byte b=30;
         short s = 60;
@@ -46,6 +56,16 @@ public class DataTypesExmpleinJava {
         float f = 60.0f;
         double d = 566.9101000;
         boolean bool =true;
+
+        //Default values of primitive data types
+        System.out.println("Default Value of Int:"+valuInt);// 0
+        System.out.println("Default Value of Byte:"+valuebype);//0
+        System.out.println("Default Value of Short:"+valueshort);//0
+        System.out.println("Default Value of long:"+valuelong);//0
+        System.out.println("Default Value of Char:"+valuechar);//
+        System.out.println("Default Value of float:"+valuefloat);//0.0
+        System.out.println("Default Value of double:"+valuedouble);//0.0
+        System.out.println("Default Value of boolean:"+booleanvalue);//false
 
         System.out.println("Byte DataType:"+b);
         System.out.println("Short DataType:"+s);
