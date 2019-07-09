@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78756005-5f91-46a0-a7ca-482a4370730d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/datatypesinjava/DataTypesExmpleinJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/datatypesinjava/DataTypesExmpleinJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/typecasting/TypeCastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/typecasting/typecastingbeyondrange/TypeCastingBeyondRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/staticdemo/StaticMethodClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/staticdemo/StaticVariableClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/staticdemo/StaticVariableDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,11 +50,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/datatypesinjava/DataTypesExmpleinJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="67" column="67" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
+            <state relative-caret-position="199">
+              <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/typecasting/TypeCastingDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/typecasting/typecastingbeyondrange/TypeCastingBeyondRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -145,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/com/company/nonstaticdemo/InstanceVariable.java" />
         <option value="$PROJECT_DIR$/src/com/company/nonstaticdemo/SimpleInstanceVariable.java" />
         <option value="$PROJECT_DIR$/src/com/company/datatypesinjava/DataTypesExmpleinJava.java" />
+        <option value="$PROJECT_DIR$/src/com/company/typecasting/TypeCastingDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/typecasting/typecastingbeyondrange/TypeCastingBeyondRange.java" />
       </list>
     </option>
   </component>
@@ -188,7 +192,15 @@
               <item name="corejava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="datatypesinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="typecasting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="corejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="typecasting" type="462c0819:PsiDirectoryNode" />
+              <item name="typecastingbeyondrange" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DataTypesExmpleinJava">
+  <component name="RunManager" selected="Application.TypeCastingBeyondRange">
     <configuration name="DataTypesExmpleinJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.datatypesinjava.DataTypesExmpleinJava" />
       <module name="corejava" />
@@ -240,19 +252,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonStaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.nonstaticdemo.NonStaticBlock" />
-      <module name="corejava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.nonstaticdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleInstanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.nonstaticdemo.SimpleInstanceVariable" />
       <module name="corejava" />
@@ -266,12 +265,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticVariableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.staticdemo.StaticVariableDemo" />
+    <configuration name="TypeCastingBeyondRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.typecasting.typecastingbeyondrange.TypeCastingBeyondRange" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.staticdemo.*" />
+          <option name="PATTERN" value="com.company.typecasting.typecastingbeyondrange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeCastingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.typecasting.TypeCastingDemo" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.typecasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +292,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StaticVariableDemo" />
-      <item itemvalue="Application.NonStaticBlock" />
       <item itemvalue="Application.SimpleInstanceVariable" />
       <item itemvalue="Application.InstanceVariable" />
       <item itemvalue="Application.DataTypesExmpleinJava" />
+      <item itemvalue="Application.TypeCastingDemo" />
+      <item itemvalue="Application.TypeCastingBeyondRange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeCastingBeyondRange" />
+        <item itemvalue="Application.TypeCastingDemo" />
         <item itemvalue="Application.DataTypesExmpleinJava" />
         <item itemvalue="Application.SimpleInstanceVariable" />
         <item itemvalue="Application.InstanceVariable" />
-        <item itemvalue="Application.NonStaticBlock" />
-        <item itemvalue="Application.StaticVariableDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -318,9 +330,9 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32899022" />
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" />
@@ -328,7 +340,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,8 +461,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/datatypesinjava/DataTypesExmpleinJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="67" column="67" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
+        <state relative-caret-position="199">
+          <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/typecasting/TypeCastingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/typecasting/typecastingbeyondrange/TypeCastingBeyondRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
         </state>
       </provider>
     </entry>
